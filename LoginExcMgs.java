@@ -22,7 +22,7 @@ public class LoginExcMgs {
 	 }
 	 
 	 System.out.println("hello");
-	
+	System.out.print("get the value");
 }
 	
 }
